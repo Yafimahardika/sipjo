@@ -5,3 +5,5 @@ First commit ke github
 Install depedencies, meliputi:
 1. Alphine
 2. Tailwindcss
+
+# Pengembangan UI

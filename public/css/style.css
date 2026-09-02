@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'Montserrat';
+  src: url('/fonts/Montserrat/Montserrat-VariableFont_wght.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Open-sans';
+  src: url('/fonts/Open-sans/static/OpenSans_Condensed-SemiBold.ttf') format('truetype');
+}
+
+h2{
+  font-family: 'Montserrat',sans-serif;
+  font-weight: bold;
+}
+
+.sub{
+  font-family: 'Open-sans';
+}
+
+.time{
+  font-family: 'Montserrat', sans-serif;
+}
